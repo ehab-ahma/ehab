@@ -13,5 +13,10 @@
 | 4. maekdown element |[element](https://ehab-ahma.github.io/reading-note/markdown)   |
 | 5. html & wire frame | [summarization](https://ehab-ahma.github.io/reading-note/sum)  |
 | 6. javascript | [summry](https://ehab-ahma.github.io/reading-note/reading04)  |
-| 7. Expressions and operators | [loops](https://ehab-ahma.github.io/reading-note/reading04)  |
+| 7. Expressions and operators | [loops](https://ehab-ahma.github.io/reading-note/loops)   |
+
+
+
+
+
 
