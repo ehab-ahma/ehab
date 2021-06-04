@@ -12,3 +12,4 @@
 | 3. github syntax | [syntax](https://ehab-ahma.github.io/reading-note/github)       |
 | 4. maekdown element |[element](https://ehab-ahma.github.io/reading-note/markdown)   |
 | 5. html & wire frame | [summarization](https://ehab-ahma.github.io/reading-note/sum)  |
+| 6. reading o4 | [summry](https://ehab-ahma.github.io/reading-note/reading04)  |
