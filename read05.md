@@ -15,7 +15,7 @@ A comparison operator compares its operands and returns a logical value based on
 
 An arithmetic operator takes numerical values (either literals or variables) as their operands and returns a single numerical value. The standard arithmetic operators are addition (+), subtraction (-), multiplication (*), and division (/). These operators work as they do in most other programming languages when used with floating point numbers (in particular, note that division by zero produces Infinity). 
 
-4 - Bitwise operators:
+4 - Bitwise operators:   
 
 A bitwise operator treats their operands as a set of 32 bits (zeros and ones), rather than as decimal, hexadecimal, or octal numbers. For example, the decimal number nine has a binary representation of 1001. Bitwise operators perform their operations on such binary representations, but they return standard JavaScript numerical values.
 
@@ -42,3 +42,28 @@ A unary operation is an operation with only one operand.
 10 - Relational operators:
 
 A relational operator compares its operands and returns a Boolean value based on whether the comparison is true.
+
+# Loops and iteration
+
+### Loops offer a quick and easy way to do something repeatedly. This chapter of the JavaScript Guide introduces the different iteration statements available to JavaScript.
+
+## for statement
+
+A for loop repeats until a specified condition evaluates to false. The JavaScript for loop is similar to the Java and C for loop.
+
+When a for loop executes, the following occurs:
+
+- The initializing expression initialExpression, if any, is executed. This expression usually initializes one or more loop counters, but the syntax allows an expression of any degree of complexity. 
+
+- The conditionExpression expression is evaluated. If the value of conditionExpression is true, the loop statements execute. If the value of condition is false, the for loop terminates. (If the condition expression is omitted entirely, the condition is assumed to be true.)
+
+- The statement executes. To execute multiple statements, use a block statement ({ ... }) to group those statements.
+- If present, the update expression incrementExpression is executed.
+
+## while statement
+
+A while statement executes its statements as long as a specified condition evaluates to true. 
+
+If the condition becomes false, statement within the loop stops executing and control passes to the statement following the loop.
+
+The condition test occurs before statement in the loop is executed. If the condition returns true, statement is executed and the condition is tested again. If the condition returns false, execution stops, and control is passed to the statement following while.
