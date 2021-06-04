@@ -14,7 +14,7 @@
 | 5. html & wire frame | [summarization](https://ehab-ahma.github.io/reading-note/sum)  |
 | 6. javascript | [summry](https://ehab-ahma.github.io/reading-note/reading04)  |
 | 7. Expressions and operators | [loops](https://ehab-ahma.github.io/reading-note/loops)   |
-
+| 8. Css intro | [css](https://ehab-ahma.github.io/reading-note/css)  |
 
 
 
