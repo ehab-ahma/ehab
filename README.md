@@ -15,8 +15,8 @@
 | 6. javascript | [summry](https://ehab-ahma.github.io/reading-note/reading04)  |
 | 7. Expressions and operators | [loops](https://ehab-ahma.github.io/reading-note/loops)   |
 | 8. Css intro | [css](https://ehab-ahma.github.io/reading-note/css)  |
-
-
+| 9. functions in JS | [jsfunction](https://ehab-ahma.github.io/reading-note/jsfunction) |
+    
 
 
 
