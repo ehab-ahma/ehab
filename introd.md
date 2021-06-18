@@ -5,21 +5,13 @@
 
 [my github](https://github.com/ehab-ahma)
 
-<<<<<<< HEAD
+
 | TABLE OF CONTENT |  READ                     |
 |---               | ---                       |
 | 1. intoduction     | [A BOUT ME](introd)     |                      
 | 2. growth mindset| [how to think](mindset)   |
 | 3. github syntax | [syntax](github)          |
 | 4. markdown element |[element](markdown)     |
-=======
-| TABLE OF CONTENT |  READ                                        |
-|---               | ---                                          |
-| 1. intoduction     | [A BOUT ME](introd) |                         
-| 2. growth mindset| [how to think](mindset)            |
-| 3. github syntax | [syntax](github)       |
-| 4. maekdown element |[element](markdown)   |
->>>>>>> 2207a6315c4b4b45b242d9883b31558cdd94a4a2
 | 5. html & wire frame | [summarization](sum)  |
 | 6. css intro     | [what is css](css)        |  
 | 7. deff of js | [what is js] (Javascript)    |
