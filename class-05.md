@@ -12,7 +12,7 @@ The img tag is empty, it contains attributes only, and does not have a closing t
 The img tag has two required attributes:
 
 src - Specifies the path to the image
-alt - Specifies an alternate text for the image</p>
+alt - Specifies an alternate text for the image</p>  
 
 <p class='nine'>
 <b>You will also often see an image element use two other attributes that specify its size:height This specifies the height of the image in pixels.width This specifies the width of the image in pixels also you align the image and put it to the right or left</b></p>
