@@ -3,30 +3,26 @@
 because they allow you to move from 
 one web page to another — enabling the 
 very idea of browsing or surfing.**
-<img src="https://slidetodoc.com/presentation_image_h/8d4c6c2458a56765aba7b09d29b6d5e1/image-19.jpg"
-height =300;
-width = 300;
-/>
+
+<img src="https://slidetodoc.com/presentation_image_h/8d4c6c2458a56765aba7b09d29b6d5e1/image-19.jpg" height=300; width=300;/>
+
 
 # Layout in CSS
 **In this chapter we are going to look at 
 how to control where each element sits 
 on a page and how to create attractive 
 page layouts.**
-<img src="https://developers.google.com/web/updates/images/2017/01/css-grid/examplelayout.png"
-height =300;
-width = 300;
-/>
+
+<img src="https://developers.google.com/web/updates/images/2017/01/css-grid/examplelayout.png" height=300; width=300;/>
+  
 
 # Functions, Methods, and Objects in JS
 **Functions let you group a series of statements together to perform a 
 specific task. If different parts of a script repeat the same task, you can 
 reuse the function (rather than repeating the same set of statements).**
 
-<img src="https://i.stack.imgur.com/RH5Gl.png"
-height =300;
-width = 300;
-/>
+<img src="https://i.stack.imgur.com/RH5Gl.png" height=300; width=300;/>
+
 
 # Pair Programming on github
 
