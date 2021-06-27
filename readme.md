@@ -15,3 +15,4 @@
 | read-03               | [read-03](https://eng-ehabsaleh.github.io/reading-note/class-03)  |
 | read-04               | [read-04](https://eng-ehabsaleh.github.io/reading-note/class-04)  |
 | read-05               | [read-05](https://eng-ehabsaleh.github.io/reading-note/class-05)  |
+| read-06               | [read-06](https://eng-ehabsaleh.github.io/reading-note/class-06)  |
