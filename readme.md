@@ -17,3 +17,11 @@
 | read-05                      | [read-05](https://eng-ehabsaleh.github.io/reading-note/class-05)      |
 | read-06                      | [read-06](https://eng-ehabsaleh.github.io/reading-note/class-06)      |
 | read-07                      | [read-07](https://eng-ehabsaleh.github.io/reading-note/class-07)      |
+| read-08                      | [read-08](https://eng-ehabsaleh.github.io/reading-note/class-08)      |
+| read-09                      | [read-09](https://eng-ehabsaleh.github.io/reading-note/class-09)      |
+| read-10                      | [read-10](https://eng-ehabsaleh.github.io/reading-note/class-10)      |
+| read-11                      | [read-11](https://eng-ehabsaleh.github.io/reading-note/class-11)      |
+| read-12                      | [read-12](https://eng-ehabsaleh.github.io/reading-note/class-12)      |
+| read-13                      | [read-13](https://eng-ehabsaleh.github.io/reading-note/class-13)      |
+| read-14a                     | [read-14a](https://eng-ehabsaleh.github.io/reading-note/class-14a)    |
+| read-14b                     | [read-14b](https://eng-ehabsaleh.github.io/reading-note/class-14b)    |
