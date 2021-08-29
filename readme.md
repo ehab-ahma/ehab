@@ -1,4 +1,4 @@
-| code 102 reading note        | READ                                                                  |
+| code 102 reading note        |  Intro to Software Development                                        |
 | ---------------------------- | --------------------------------------------------------------------- |
 | 1. ehab                      | [about me](https://eng-ehabsaleh.github.io/reading-note/intro)        |
 | 2. mindset                   | [how to think](https://eng-ehabsaleh.github.io/reading-note/mindset)  |
@@ -9,7 +9,9 @@
 | 7. expression & operatore    | [loops](https://eng-ehabsaleh.github.io/reading-note/loops)           |
 | 8. Css intro                 | [about Css](https://eng-ehabsaleh.github.io/reading-note/css)         |
 | 9. function on Js            | [about fun.](https://eng-ehabsaleh.github.io/reading-note/jsfunction) |
-| **code 201 reading note**    | **READ**                                                              |
+
+| **code 201 reading note**    | **Foundations of Software Development**                               |
+| ---------------------------- | --------------------------------------------------------------------- |
 | read-01                      | [read-01](https://eng-ehabsaleh.github.io/reading-note/class-01)      |
 | read-02                      | [read-02](https://eng-ehabsaleh.github.io/reading-note/class-02)      |
 | read-03                      | [read-03](https://eng-ehabsaleh.github.io/reading-note/class-03)      |
@@ -25,3 +27,7 @@
 | read-13                      | [read-13](https://eng-ehabsaleh.github.io/reading-note/class-13)      |
 | read-14a                     | [read-14a](https://eng-ehabsaleh.github.io/reading-note/class-14a)    |
 | read-14b                     | [read-14b](https://eng-ehabsaleh.github.io/reading-note/class-14b)    |
+
+| **code 201 reading note**    | **Intermediate Software Development**                                 |
+| ---------------------------- | --------------------------------------------------------------------- |
+| read-01                      | [read-01](https://eng-ehabsaleh.github.io/reading-note/class-01301)   |
