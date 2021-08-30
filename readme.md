@@ -28,6 +28,7 @@
 | read-14a                     | [read-14a](https://eng-ehabsaleh.github.io/reading-note/class-14a)    |
 | read-14b                     | [read-14b](https://eng-ehabsaleh.github.io/reading-note/class-14b)    |
 
-| **code 201 reading note**    | **Intermediate Software Development**                                 |
+| **code 301 reading note**    | **Intermediate Software Development**                                 |
 | ---------------------------- | --------------------------------------------------------------------- |
 | read-01                      | [read-01](https://eng-ehabsaleh.github.io/reading-note/class-01301)   |
+| read-02                      | [read-02](https://eng-ehabsaleh.github.io/reading-note/class-02301)   |
