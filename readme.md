@@ -35,3 +35,4 @@
 | read-03                   | [read-03](https://eng-ehabsaleh.github.io/reading-note/class-03301) |
 | read-04                   | [read-04](https://eng-ehabsaleh.github.io/reading-note/class-04301) |
 | read-05                   | [read-05](https://eng-ehabsaleh.github.io/reading-note/class-05301) |
+| read-06                   | [read-06](https://eng-ehabsaleh.github.io/reading-note/class-06301) |
