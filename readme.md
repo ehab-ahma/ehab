@@ -1,4 +1,4 @@
-| code 102 reading note        | Intro to Software Development                                         |
+| **code 102 reading note**    | **Intro to Software Development**                                     |
 | ---------------------------- | --------------------------------------------------------------------- |
 | 1. ehab                      | [about me](https://eng-ehabsaleh.github.io/reading-note/intro)        |
 | 2. mindset                   | [how to think](https://eng-ehabsaleh.github.io/reading-note/mindset)  |
@@ -36,3 +36,5 @@
 | read-04                   | [read-04](https://eng-ehabsaleh.github.io/reading-note/class-04301) |
 | read-05                   | [read-05](https://eng-ehabsaleh.github.io/reading-note/class-05301) |
 | read-06                   | [read-06](https://eng-ehabsaleh.github.io/reading-note/class-06301) |
+| read-07                   | [read-07](https://eng-ehabsaleh.github.io/reading-note/class-07301) |
+| read-08                   | [read-08](https://eng-ehabsaleh.github.io/reading-note/class-08301) |
