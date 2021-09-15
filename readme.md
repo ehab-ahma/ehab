@@ -38,3 +38,9 @@
 | read-06                   | [read-06](https://eng-ehabsaleh.github.io/reading-note/class-06301) |
 | read-07                   | [read-07](https://eng-ehabsaleh.github.io/reading-note/class-07301) |
 | read-08                   | [read-08](https://eng-ehabsaleh.github.io/reading-note/class-08301) |
+| read-09                   | [read-09](https://eng-ehabsaleh.github.io/reading-note/class-09301) |
+| read-10                   | [read-10](https://eng-ehabsaleh.github.io/reading-note/class-10301) |
+| read-11                   | [read-11](https://eng-ehabsaleh.github.io/reading-note/class-11301) |
+| read-12                   | [read-12](https://eng-ehabsaleh.github.io/reading-note/class-12301) |
+| read-13                   | [read-13](https://eng-ehabsaleh.github.io/reading-note/class-13301) |
+| read-14                   | [read-14](https://eng-ehabsaleh.github.io/reading-note/class-14301) |
