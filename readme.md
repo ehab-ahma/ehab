@@ -48,3 +48,4 @@
 | **code 401 reading note** | **Advanced Software Development**                                  |
 | ------------------------- | ------------------------------------------------------------------ |
 | read-1                    | [read-1](https://eng-ehabsaleh.github.io/reading-note/class-01401) |
+| read-2                    | [read-2](https://eng-ehabsaleh.github.io/reading-note/class-02401) |
