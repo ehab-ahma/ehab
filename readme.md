@@ -53,3 +53,4 @@
 | read-4                    | [read-4](https://eng-ehabsaleh.github.io/reading-note/class-04401) |
 | read-5                    | [read-5](https://eng-ehabsaleh.github.io/reading-note/class-05401) |
 | read-6                    | [read-6](https://eng-ehabsaleh.github.io/reading-note/class-06401) |
+| read-7                    | [read-7](https://eng-ehabsaleh.github.io/reading-note/class-07401) |
