@@ -58,3 +58,11 @@
 | read-9                    | [read-9](https://eng-ehabsaleh.github.io/reading-note/class-09401)  |
 | read-10                   | [read-10](https://eng-ehabsaleh.github.io/reading-note/class-10401) |
 | read-11                   | [read-11](https://eng-ehabsaleh.github.io/reading-note/class-11401) |
+| read-12                   | [read-12](https://eng-ehabsaleh.github.io/reading-note/class-12401) |
+| read-13                   | [read-13](https://eng-ehabsaleh.github.io/reading-note/class-13401) |
+| read-14                   | [read-14](https://eng-ehabsaleh.github.io/reading-note/class-14401) |
+| read-15                   | [read-15](https://eng-ehabsaleh.github.io/reading-note/class-15401) |
+| read-16                   | [read-16](https://eng-ehabsaleh.github.io/reading-note/class-16401) |
+| read-17                   | [read-17](https://eng-ehabsaleh.github.io/reading-note/class-17401) |
+| read-18                   | [read-18](https://eng-ehabsaleh.github.io/reading-note/class-18401) |
+| read-19                   | [read-19](https://eng-ehabsaleh.github.io/reading-note/class-19401) |
