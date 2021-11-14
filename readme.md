@@ -66,3 +66,4 @@
 | read-17                   | [read-17](https://eng-ehabsaleh.github.io/reading-note/class-17401) |
 | read-18                   | [read-18](https://eng-ehabsaleh.github.io/reading-note/class-18401) |
 | read-19                   | [read-19](https://eng-ehabsaleh.github.io/reading-note/class-19401) |
+| read-26                   | [read-26](https://eng-ehabsaleh.github.io/reading-note/class-26401) |
