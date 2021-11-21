@@ -67,3 +67,8 @@
 | read-18                   | [read-18](https://eng-ehabsaleh.github.io/reading-note/class-18401) |
 | read-19                   | [read-19](https://eng-ehabsaleh.github.io/reading-note/class-19401) |
 | read-26                   | [read-26](https://eng-ehabsaleh.github.io/reading-note/class-26401) |
+| read-27                   | [read-27](https://eng-ehabsaleh.github.io/reading-note/class-27401) |
+| read-28                   | [read-28](https://eng-ehabsaleh.github.io/reading-note/class-28401) |
+| read-29                   | [read-29](https://eng-ehabsaleh.github.io/reading-note/class-29401) |
+| read-30                   | [read-30](https://eng-ehabsaleh.github.io/reading-note/class-30401) |
+| read-31                   | [read-31](https://eng-ehabsaleh.github.io/reading-note/class-31401) |
