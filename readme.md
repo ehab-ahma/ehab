@@ -72,3 +72,4 @@
 | read-29                   | [read-29](https://eng-ehabsaleh.github.io/reading-note/class-29401) |
 | read-30                   | [read-30](https://eng-ehabsaleh.github.io/reading-note/class-30401) |
 | read-31                   | [read-31](https://eng-ehabsaleh.github.io/reading-note/class-31401) |
+| read-32                   | [read-32](https://eng-ehabsaleh.github.io/reading-note/class-32401) |
