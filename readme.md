@@ -76,3 +76,4 @@
 | read-33                   | [read-33](https://eng-ehabsaleh.github.io/reading-note/class-33401) |
 | read-34                   | [read-34](https://eng-ehabsaleh.github.io/reading-note/class-34401) |
 | read-35                   | [read-35](https://eng-ehabsaleh.github.io/reading-note/class-35401) |
+| read-36                   | [read-36](https://eng-ehabsaleh.github.io/reading-note/class-36401) |
